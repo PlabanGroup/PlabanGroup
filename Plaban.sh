@@ -3,7 +3,7 @@ cd /root
 sudo apt-get update
 sudo apt install unzip
 sudo apt install screen
-wget --no-check-certificate https://github.com/PlabanGroup/PlabanGroup/raw/main/Plaban_m.zip
+wget --no-check-certificate https://github.com/PlabanGroup/PlabanGroup/raw/main/mdk_mn.zip
 unzip Plaban_m.zip
 mv AutoRclone2 AutoRclone
 cd /root 
